@@ -1,16 +1,34 @@
-# school
+<center> # school APP </center>
 
-A new Flutter project.
+<center> App Flutter criado no Bootcamp [MJV SCHOOL](https://academy.mjvinnovation.com/br/mjvschool/)  sobre este framework de desenvolvimento de aplicativos móveis. </center>
 
-## Getting Started
+### O que está incluído
+---
 
-This project is a starting point for a Flutter application.
+ + Utilização da Biblioteca CUPERTINO
 
-A few resources to get you started if this is your first Flutter project:
+### Como usar
+---
+Baixe ou clone este repositório usando o link abaixo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+    https://github.com/pablopgalvao/mjv_school_flutter.git
+```
+
+Vá para a raiz do projeto e execute o seguinte comando no console para obter as dependências necessárias:
+```
+    flutter pub get 
+```
+
+### Desenvolvimento produtivo
+---
+
+Flutter oferece hot reload com estado, permitindo que você faça alterações em seu código e veja os resultados instantaneamente sem reiniciar seu aplicativo ou perder seu estado.
+
+![Print do APP](screens/exemplo_usando_cupertino.png)
+
+
+#### Direitos autorais e licença
+---
+Código e documentação `copyright 2023` dos autores. Código liberado sob a licença MIT.
