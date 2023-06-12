@@ -1,6 +1,6 @@
-<center> # school APP </center>
+ # school APP
 
-<center> App Flutter criado no Bootcamp [MJV SCHOOL](https://academy.mjvinnovation.com/br/mjvschool/)  sobre este framework de desenvolvimento de aplicativos móveis. </center>
+App Flutter criado no Bootcamp [MJV SCHOOL](https://academy.mjvinnovation.com/br/mjvschool/) sobre este framework de desenvolvimento de aplicativos móveis.
 
 ### O que está incluído
 ---
