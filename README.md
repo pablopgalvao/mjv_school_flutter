@@ -34,6 +34,10 @@ Flutter oferece hot reload com estado, permitindo que você faça alterações e
 
 ![Print Tela inicial TODO LIST](screens/app_tela_inicial_todo_list.png)
 
+ + Páginação
+
+![Print Tela inicial TODO LIST + Paginação](screens/aula4_paginacao.gif)
+
 ###### Direitos autorais e licença
 ---
 Código e documentação `copyright 2023` dos autores. Código liberado sob a licença MIT.
