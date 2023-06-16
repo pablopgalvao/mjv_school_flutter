@@ -18,7 +18,7 @@ class PerfilTab extends StatelessWidget {
             child: Row(children: [
               const CircleAvatar(child: Text('P')),
               const SpacerComponent(size: 8, isHorizontal: true),
-              const Text('Pablo Galvao', style: TextStyle(fontWeight: FontWeight.bold)),
+              const Text('Pablo Galvão', style: TextStyle(fontWeight: FontWeight.bold)),
               const SpacerComponent(isFull: true),
               IconButtonComponent(
                 icon: Icons.more_vert,
@@ -47,7 +47,7 @@ class PerfilTab extends StatelessWidget {
           Text('0'),
         ]),
         const SpacerComponent(),
-        const Divider(),
+        const SpacerComponent(isHorizontal: true, isFull: true),
         const SpacerComponent(),
         const Text(
           'Minhas estatísticas',
