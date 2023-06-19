@@ -5,7 +5,7 @@ App Flutter criado no Bootcamp [MJV SCHOOL](https://academy.mjvinnovation.com/br
 ### O que está incluído
 ---
 
- + Utilização da Biblioteca CUPERTINO
+ + Utilização da Biblioteca MATERIAL
 
 ### Como usar
 ---
@@ -20,6 +20,11 @@ Vá para a raiz do projeto e execute o seguinte comando no console para obter as
 ```
     flutter pub get 
 ```
+Inicie o APP
+
+```
+    flutter run 
+```
 
 ### Desenvolvimento produtivo
 ---
@@ -28,15 +33,17 @@ Flutter oferece hot reload com estado, permitindo que você faça alterações e
 
  + App usando o CUPERTINO
 
-![Print do APP](screens/exemplo_usando_cupertino.png)
 
  + Tela inicial TODO LIST
 
-![Print Tela inicial TODO LIST](screens/app_tela_inicial_todo_list.png)
+
 
  + Páginação
 
-![Print Tela inicial TODO LIST + Paginação](screens/aula4_paginacao.gif)
+
+ + Neste versão 
+
+![Print Tela inicial TODO LIST + Add list](screens/aula5_add_lista.gif)
 
 ###### Direitos autorais e licença
 ---
