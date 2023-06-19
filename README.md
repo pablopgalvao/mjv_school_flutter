@@ -31,17 +31,7 @@ Inicie o APP
 
 Flutter oferece hot reload com estado, permitindo que você faça alterações em seu código e veja os resultados instantaneamente sem reiniciar seu aplicativo ou perder seu estado.
 
- + App usando o CUPERTINO
-
-
- + Tela inicial TODO LIST
-
-
-
- + Páginação
-
-
- + Neste versão 
+ + Nesta versão foi você poderá criar novas tarefas de "TESTE" e excluí-las. Dererá também navegar entre as páginas da HOME (com a lista de tarefa) e PERFIL.
 
 ![Print Tela inicial TODO LIST + Add list](screens/aula5_add_lista.gif)
 
