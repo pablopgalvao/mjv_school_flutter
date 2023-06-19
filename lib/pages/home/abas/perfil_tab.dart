@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../../components/icon_button_component.dart';
-import '../../../components/spacer_component.dart';
+import '../../../../components/icon_button_component.dart';
+import '../../../../components/spacer_component.dart';
 
 class PerfilTab extends StatelessWidget {
   const PerfilTab({super.key});
@@ -47,7 +47,7 @@ class PerfilTab extends StatelessWidget {
           Text('0'),
         ]),
         const SpacerComponent(),
-        const SpacerComponent(isHorizontal: true, isFull: true),
+        const Divider(),
         const SpacerComponent(),
         const Text(
           'Minhas estatísticas',
