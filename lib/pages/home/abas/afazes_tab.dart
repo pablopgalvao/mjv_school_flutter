@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../../components/icon_button_component.dart';
 import '../../../components/spacer_component.dart';
 import '../../../entities/afazer_entity.dart';
+import '../components/item_widget.dart';
 
 class AfazeresTab extends StatefulWidget {
   const AfazeresTab({
@@ -81,8 +82,15 @@ class _AfazeresTab extends State<AfazeresTab> {
                   if (direction == DismissDirection.startToEnd) {
                     handleExcluir(index);
                   }
-                },
-                child: Text(item.titulo),
+                }, 
+                
+                child: ItemWidget(
+                  item: item,
+                  onPressed: () {
+                    handleAdicionar();
+                  }
+                ),
+                    
               );
             },
           ),
